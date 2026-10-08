@@ -1,2 +1,3 @@
 # yezure
-yezure: an AI product for to-dos and notes
+
+An AI product for to-dos and notes.
